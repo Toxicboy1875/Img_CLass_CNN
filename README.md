@@ -1,1 +1,1 @@
-# Img_CLass_CNN
+# Img_Class_CNN
